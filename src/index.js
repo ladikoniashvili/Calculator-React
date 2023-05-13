@@ -25,7 +25,7 @@ function Calculator(){
     };
     function doCalculation(){
 
-        console.log(calc);
+       
         let total = parseInt(calc.total);
         switch(calc.preOp){
            case "+":
